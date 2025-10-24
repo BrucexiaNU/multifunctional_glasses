@@ -11,4 +11,4 @@ The BCM data will be saved as a dual-channel wav file, and a .txt file with only
 The IMU data will also be saved in a txt file.    
 Each generated IMU.txt file contains a sequence of IMU samples recorded from two sensors (IMU1 and IMU2).  
 Each line in the file includes 18 values, separated by spaces following the structure:  
-**[ax1 ay1 az1 gx1 gy1 gz1 mx1 my1 mz1 ax2 ay2 az2 gx2 gy2 gz2 mx2 my2 mz2]**
+<b>[ax1 ay1 az1 gx1 gy1 gz1 mx1 my1 mz1 ax2 ay2 az2 gx2 gy2 gz2 mx2 my2 mz2]</b>
