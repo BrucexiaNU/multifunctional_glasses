@@ -25,7 +25,7 @@ In the <code>2bcm_2imu</code> folder:
 <h2>🔌 How to Use</h2>
 
 <ol>
-  <li>Use a <b>Type-C cable</b> to connect the nRF device to your computer.</li>
+  <li>Use a <b>Type-C cable</b> to connect the nRF1 device to your computer.</li>
   <li>Run the provided <code>.py</code> Python program to start data collection.</li>
   <li>Follow terminal prompts:
     <ul>
