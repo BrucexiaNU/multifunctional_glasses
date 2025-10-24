@@ -7,7 +7,7 @@
 
 Use a type-c cable to connect nrf, then connect the other end to the computer, and then start the python program to receive data.  
 Then follow the instructions on the terminal, press enter to start, and press enter again to end data collection.  
-The BCM data will be saved as a dual-channel wav file, and a .txt file with only the raw data will also be saved.   
+The BCM data will be saved as a dual-channel wav file, and a .txt file with only the raw data will also be saved.<br><br>   
 The IMU data will also be saved in a txt file.    
 Each generated IMU.txt file contains a sequence of IMU samples recorded from two sensors (IMU1 and IMU2).  
 Each line in the file includes 18 values, separated by spaces following the structure:  
