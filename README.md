@@ -69,6 +69,7 @@ Each line contains <b>18 values</b> separated by spaces, following this structur
 [ax1 ay1 az1 gx1 gy1 gz1 mx1 my1 mz1  ax2 ay2 az2 gx2 gy2 gz2 mx2 my2 mz2]
 </pre>
 
+
 <p>
 Within each 9-value group:
 <ul>
