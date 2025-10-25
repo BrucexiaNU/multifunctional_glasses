@@ -15,7 +15,7 @@ In the <code>2bcm_2imu</code> folder:
 
 
 <p align="center">
-  <img src="./image/back_detail.png" alt="back_detail" width="400"/>
+  <img src="./image/back_detail_2.png" alt="back_detail" width="400"/>
   <br>
   <i>▲ Back-side connection layout</i>
 </p>
